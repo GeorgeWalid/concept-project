@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38aGWeRX2yY=",
+  "success": true,
+  "projectFilePath": "D:\\cocept project\\functional\\functional\\functional.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George walid\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

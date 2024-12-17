@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DGxygAxaAI=",
+  "success": true,
+  "projectFilePath": "D:\\cocept project\\emperative\\emperative\\emperative.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\George walid\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
